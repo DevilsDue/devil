@@ -31,3 +31,22 @@ Block halving
 4000000 blocks
 Coin supply
 400000000 coins
+
+
+Advanced properties
+Coinbase maturity
+20 ( + 1 default confirmation) blocks
+Target spacing
+5 minutes
+Target timespan
+10 minutes
+Transaction confirmations
+6 blocks
+Timestamp
+The Beast 666
+
+Node 1
+node3.walletbuilders.com
+
+Last block with reward
+132000000
